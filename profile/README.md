@@ -1,5 +1,5 @@
 <center>
-    <img src="../logo.svg" style="width:50%;"/>
+    <img src="https://app.goteacher.com/static/media/logo.22bc695a5f0c17b51a73630a77bed8e6.svg" style="width:50%;"/>
     <hr style="margin-bottom:30px;">
 </center>
 
