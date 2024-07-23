@@ -1,10 +1,9 @@
 <p align="center">
     <img src="../assets/logo.svg" style="width:30%;"/>
-    <hr style="margin-bottom:30px;">
+    <h1 align="center">
+        GoTeacher Inc
+    </h1>
 </p>
-
-
-
 
 ## What is GoTeacher?
 GoTeacher is an innovative software solution that offers a comprehensive solution to assist educators in sharing educational materials, gathering feedback, and monitoring student engagement. Our platform is thoughtfully designed to enhance the process of sharing online educational resources, simplifying and streamlining it to ensure maximum efficiency and effectiveness.
