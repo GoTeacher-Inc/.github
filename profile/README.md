@@ -1,10 +1,13 @@
-<center>
+<p align="center">
     <img src="../assets/logo.svg" style="width:30%;"/>
     <hr style="margin-bottom:30px;">
-</center>
+</p>
+
+
+
 
 ## What is GoTeacher?
-GoTeacher is an innovative add-on for Google Classroom that offers a comprehensive solution to assist educators in sharing educational materials, gathering feedback, and monitoring student engagement. Our platform is thoughtfully designed to enhance the process of sharing online educational resources, simplifying and streamlining it to ensure maximum efficiency and effectiveness.
+GoTeacher is an innovative software solution that offers a comprehensive solution to assist educators in sharing educational materials, gathering feedback, and monitoring student engagement. Our platform is thoughtfully designed to enhance the process of sharing online educational resources, simplifying and streamlining it to ensure maximum efficiency and effectiveness.
 
 ## What is our mission?
 At our core, our mission is to empower educators with cutting-edge technology that enables them to optimize their time and resources. Recent research indicates that a significant portion of a teacher's time is spent on non-instructional tasks, which inspired us to focus our efforts on developing innovative solutions to automate repetitive tasks. Our ultimate goal is to streamline time-consuming activities.
